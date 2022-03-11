@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Live Site
 
-- Live Site URL: [Add live site URL here](https://fem-easybank-alexis.netlify.app/)
+- Live Site URL: [Live Site Here](https://fem-easybank-alexis.netlify.app/)
 
 ### Built with
 
